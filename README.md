@@ -1,4 +1,4 @@
-# Ember-markdown-editor [![Build Status](https://travis-ci.org/osxi/ember-markdown-editor.svg)](https://travis-ci.org/osxi/ember-markdown-editor) [![devDependency Status](https://david-dm.org/osxi/ember-markdown-editor/dev-status.svg)](https://david-dm.org/osxi/ember-markdown-editor#info=devDependencies)
+# Ember-markdown-editor-electron [![Build Status](https://travis-ci.org/osxi/ember-markdown-editor-electron.svg)](https://travis-ci.org/osxi/ember-markdown-editor-electron) [![devDependency Status](https://david-dm.org/osxi/ember-markdown-editor-electron/dev-status.svg)](https://david-dm.org/osxi/ember-markdown-editor-electron#info=devDependencies)
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
